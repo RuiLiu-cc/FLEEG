@@ -8,8 +8,6 @@ through Federated Learning](https://www.sciencedirect.com/science/article/pii/S0
 
 ## 🛠️ Enviroment
 
-- pytorch/pytorch:1.13.1-cuda11.6-cudnn8-runtime
-
 - python: 3.10
 
 ## 📦 Toolbox
