@@ -1,6 +1,10 @@
 colorlog==5.0.1
 matplotlib==3.7.0
+mne==1.4.2
+moabb==1.0.0
 numpy==1.23.5
 pandas==1.5.3
+resampy==0.4.2
 scikit_learn==1.2.1
+scipy==1.10.0
 torch==1.13.1
