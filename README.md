@@ -16,8 +16,7 @@ FLEEG provides a federated learning framework for EEG-based brain-computer inter
 
 ## 🚀 Key Features
 
-- Modular PyTorch implementation for federated EEG learning
-- Supports multiple EEG datasets with preprocessing scripts
+- Modular PyTorch implementation for federated EEG learning across multiple heterogeneous EEG datasets with preprocessing scripts
 - Reproducible experiments aligned with our published results
 
 ---
