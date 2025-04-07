@@ -10,7 +10,7 @@ This is the official PyTorch implementation of **FLEEG**, proposed in our paper:
   <img src="FLEEG_structure.png" width="800" alt="FLEEG architecture">
 </p>
 
-FLEEG provides a federated learning framework for EEG-based brain-computer interface (BCI) research, enabling privacy-preserving model training across multiple heterogeneous sites.
+FLEEG provides a federated learning framework for EEG-based brain-computer interface (BCI) research, enabling privacy-preserving model training across multiple heterogeneous datasets.
 
 ---
 
