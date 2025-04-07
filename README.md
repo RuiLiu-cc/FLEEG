@@ -6,6 +6,19 @@ through Federated Learning](https://www.sciencedirect.com/science/article/pii/S0
 
 <img src="FLEEG_structure.png" width="800">
 
+If you use this work in your research or project, please cite it as:
+
+```bash
+@article{liu2024aggregating,
+  title={Aggregating intrinsic information to enhance BCI performance through federated learning},
+  author={Liu, Rui and Chen, Yuanyuan and Li, Anran and Ding, Yi and Yu, Han and Guan, Cuntai},
+  journal={Neural Networks},
+  volume={172},
+  pages={106100},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 
 ## ⚙️ Dataset Preprocessing
 
@@ -22,4 +35,3 @@ through Federated Learning](https://www.sciencedirect.com/science/article/pii/S0
 
 ```bash
 pip install -r requirements.txt
-
