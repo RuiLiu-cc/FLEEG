@@ -39,7 +39,7 @@ def assign_arguments():
     All_Clients_config = [
         {
             "name": "KoreaU_MI",
-            "filtering_setting": "Filter_first/0.3Hz_40Hz_cheby2_sos",
+            "filtering_setting": "0.3Hz_40Hz_cheby2_sos",
             "nChan": 62,
             "nTime": 1000,
             "num_folds": 54,
@@ -61,7 +61,7 @@ def assign_arguments():
         },
         {
             "name": "Shin_MI",
-            "filtering_setting": "Update_filter/200Hz/0.3Hz_40Hz_cheby2_sos",
+            "filtering_setting": "0.3Hz_40Hz_cheby2_sos",
             "nChan": 30,
             "nTime": 2000,
             "num_folds": 29,
@@ -83,7 +83,7 @@ def assign_arguments():
         },
         {
             "name": "ShanghaiU_MI",
-            "filtering_setting": "Update_filter/0.3Hz_40Hz_cheby2_sos",
+            "filtering_setting": "0.3Hz_40Hz_cheby2_sos",
             "nChan": 32,
             "nTime": 1000,
             "num_folds": 25,
@@ -105,7 +105,7 @@ def assign_arguments():
         },
         {
             "name": "BCI2a_MI",
-            "filtering_setting": "Update_filter/0.3Hz_40Hz_cheby2_sos",
+            "filtering_setting": "0.3Hz_40Hz_cheby2_sos",
             "nChan": 22,
             "nTime": 1000,
             "num_folds": 9,
@@ -170,8 +170,8 @@ def assign_arguments():
             },
         },
         {
-            "name": "MunichMI_250Hz",
-            "filtering_setting": "0.3Hz_40Hz_cheby2_sos_FilterFirst",
+            "name": "MunichMI",
+            "filtering_setting": "0.3Hz_40Hz_cheby2_sos",
             "nChan": 128,
             "nTime": 1750,
             "num_folds": 10,
