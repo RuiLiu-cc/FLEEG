@@ -6,6 +6,14 @@ through Federated Learning](https://www.sciencedirect.com/science/article/pii/S0
 
 <img src="FLEEG_structure.png" width="800">
 
+
+## ⚙️ Dataset Preprocessing
+
+- For the KU, SHU, BCI2a and Murat2018 dataset, please download them from the website first, save them to the corresponding folder, and use the provided code to do preprocessing.
+
+- For the Shin, Weibo2014, Cho2017, MunichMI and Schirrmeister2017 datasets, they can be downloaded using the provided code directly, followed by the preprocessing.
+  
+
 ## 🛠️ Enviroment
 
 - python: 3.10
@@ -14,3 +22,4 @@ through Federated Learning](https://www.sciencedirect.com/science/article/pii/S0
 
 ```bash
 pip install -r requirements.txt
+
